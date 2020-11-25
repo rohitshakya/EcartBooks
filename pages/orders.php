@@ -45,15 +45,7 @@
             
                 <div class="panel panel-success panel-size-custom">
                         <div class="panel-body">
-
-
-
-
-
-
-
-
-<?php
+                                    <?php
                                       include('../config/dbconn.php');
 
                                       $action = isset($_GET['action']) ? $_GET['action'] : "";
@@ -95,18 +87,6 @@
                                             }
                                           }?>
                                 </table><br><br><br><br>
-
-
-
-
-
-
-
-
-
-
-
-
                         </div>
                     </div> 
                 </div>
@@ -119,11 +99,11 @@
                     <ul>
                         <li>
                             <a href="" target="_blank">
-                                Creative ABC
+                                EcartBooks
                             </a>
                         </li>
                         <li>
-                            Elective02
+                            New Delhi
                         </li>
                     </ul>
                 </nav>
@@ -131,7 +111,7 @@
                     &copy;
                     <script>
                         document.write(new Date().getFullYear())
-                    </script>, Designed and Coded by Rohit Shakya, Inc.
+                    </script>, Developed by Rohit Shakya, Nitesh Yadav, Hitesh Yadav and Devender Gupta.
                 </div>
             </div>
         </footer>

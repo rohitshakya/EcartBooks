@@ -229,7 +229,7 @@
                     &copy;
                     <script>
                         document.write(new Date().getFullYear())
-                    </script>, Designed and Coded by Rohit Shakya, Inc.
+                    </script>, Developed by Rohit Shakya, Nitesh Yadav, Hitesh Yadav and Devender Gupta.
                 </div>
             </div>
         </footer>

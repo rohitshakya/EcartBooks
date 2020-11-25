@@ -28,8 +28,9 @@
     <nav class="navbar navbar-expand-lg bg-primary fixed-top navbar-transparent " color-on-scroll="400">
         <div class="container">
             <div class="navbar-translate">
-                <a href="../index.php" class="navbar-brand" rel="tooltip" title="Designed and Coded by Serve(8) Web Solutions, Inc." data-placement="bottom">
-                    Ecartbooks
+                
+                <a href="#" class="navbar-brand" rel="tooltip" title="Developed by Rohit Shakya, Inc." data-placement="bottom" target="#">
+                    EcartBooks
                 </a>
                 <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-bar bar1"></span>
@@ -40,19 +41,19 @@
             <div class="collapse navbar-collapse justify-content-end" id="navigation" data-nav-image="../assets/img/blurred-image-1.jpg">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com/CreativeTim" target="_blank">
+                        <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com/rrshakya_rohit" target="_blank">
                             <i class="fa fa-twitter"></i>
                             <p class="d-lg-none d-xl-none">Twitter</p>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" rel="tooltip" title="Like us on Facebook" data-placement="bottom" href="https://www.facebook.com/CreativeTim" target="_blank">
+                        <a class="nav-link" rel="tooltip" title="Like us on Facebook" data-placement="bottom" href="https://www.facebook.com/rohit.rrshakya" target="_blank">
                             <i class="fa fa-facebook-square"></i>
                             <p class="d-lg-none d-xl-none">Facebook</p>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" rel="tooltip" title="Follow us on Instagram" data-placement="bottom" href="https://www.instagram.com/CreativeTimOfficial" target="_blank">
+                        <a class="nav-link" rel="tooltip" title="Follow us on Instagram" data-placement="bottom" href="https://www.instagram.com/rohit.rkshakya/" target="_blank">
                             <i class="fa fa-instagram"></i>
                             <p class="d-lg-none d-xl-none">Instagram</p>
                         </a>
@@ -112,7 +113,7 @@
                     <a href="user_login_page.php">&copy;
                     <script>
                         document.write(new Date().getFullYear())
-                    </script>,</a> Designed and Coded by Rohit Shakya, Inc.
+                    </script>, Developed by Rohit Shakya, Nitesh Yadav, Hitesh Yadav and Devender Gupta.
                 </div>
             </div>
         </footer>

@@ -36,7 +36,7 @@ include('config/dbconn.php');
     <nav class="navbar navbar-expand-lg bg-primary fixed-top navbar-transparent " color-on-scroll="400">
         <div class="container">
             <div class="navbar-translate">
-                <a href="../website/Electicks Website/page/home.php" class="navbar-brand" rel="tooltip" title="Designed and Coded by Serve(8) Web Solutions, Inc." data-placement="bottom" target="">
+                <a href="#" class="navbar-brand" rel="tooltip" title="Developed by Rohit Shakya, Inc." data-placement="bottom" target="#">
                     EcartBooks
                 </a>
                 <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
@@ -73,20 +73,21 @@ include('config/dbconn.php');
                             <p>Shopping Cart</p>
                         </a>
                     </li>
+
                     <li class="nav-item">
-                        <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com" target="_blank">
+                        <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com/rrshakya_rohit" target="_blank">
                             <i class="fa fa-twitter"></i>
                             <p class="d-lg-none d-xl-none">Twitter</p>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" rel="tooltip" title="Like us on Facebook" data-placement="bottom" href="https://www.facebook.com" target="_blank">
+                        <a class="nav-link" rel="tooltip" title="Like us on Facebook" data-placement="bottom" href="https://www.facebook.com/rohit.rrshakya" target="_blank">
                             <i class="fa fa-facebook-square"></i>
                             <p class="d-lg-none d-xl-none">Facebook</p>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" rel="tooltip" title="Follow us on Instagram" data-placement="bottom" href="https://www.instagram.com" target="_blank">
+                        <a class="nav-link" rel="tooltip" title="Follow us on Instagram" data-placement="bottom" href="https://www.instagram.com/rohit.rkshakya/" target="_blank">
                             <i class="fa fa-instagram"></i>
                             <p class="d-lg-none d-xl-none">Instagram</p>
                         </a>
@@ -186,7 +187,7 @@ include('config/dbconn.php');
                     &copy;
                     <script>
                         document.write(new Date().getFullYear())
-                    </script>, Designed and Coded by Rohit Shakya , Inc.
+                    </script>, Developed by Rohit Shakya, Nitesh Yadav, Hitesh Yadav and Devender Gupta.
                 </div>
             </div>
         </footer>

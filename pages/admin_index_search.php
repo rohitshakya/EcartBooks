@@ -89,21 +89,20 @@
                             <i class="now-ui-icons ui-1_lock-circle-open"></i>
                             <p>Logout</p>
                         </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com" target="_blank">
+                    </li><li class="nav-item">
+                        <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com/rrshakya_rohit" target="_blank">
                             <i class="fa fa-twitter"></i>
                             <p class="d-lg-none d-xl-none">Twitter</p>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" rel="tooltip" title="Like us on Facebook" data-placement="bottom" href="https://www.facebook.com" target="_blank">
+                        <a class="nav-link" rel="tooltip" title="Like us on Facebook" data-placement="bottom" href="https://www.facebook.com/rohit.rrshakya" target="_blank">
                             <i class="fa fa-facebook-square"></i>
                             <p class="d-lg-none d-xl-none">Facebook</p>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" rel="tooltip" title="Follow us on Instagram" data-placement="bottom" href="https://www.instagram.com" target="_blank">
+                        <a class="nav-link" rel="tooltip" title="Follow us on Instagram" data-placement="bottom" href="https://www.instagram.com/rohit.rkshakya/" target="_blank">
                             <i class="fa fa-instagram"></i>
                             <p class="d-lg-none d-xl-none">Instagram</p>
                         </a>
@@ -210,7 +209,7 @@
                     &copy;
                     <script>
                         document.write(new Date().getFullYear())
-                    </script>, Designed and Coded by Rohit Shakya, Inc.
+                    </script>, Developed by Rohit Shakya, Nitesh Yadav, Hitesh Yadav and Devender Gupta.
                 </div>
             </div>
         </footer>
