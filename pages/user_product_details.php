@@ -177,7 +177,7 @@
         <?php echo $res['category']; ?>
         </ul>
         <ul><b>Price: </b>
-        <?php echo 'Php'.$res['prod_price'].''; ?>
+        <?php echo 'INR '.$res['prod_price'].''; ?>
         </ul>
         <ul>
         <?php  $prod_qty=$res['prod_qty'];?> 

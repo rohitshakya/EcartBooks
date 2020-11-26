@@ -29,7 +29,8 @@
         <div class="container">
             <div class="navbar-translate">
                 
-                <a href="#" class="navbar-brand" rel="tooltip" title="Developed by Rohit Shakya, Inc." data-placement="bottom" target="#">
+                
+                <a href="../index.php" class="navbar-brand" rel="tooltip" title="Developed by Rohit Shakya, Inc." data-placement="bottom" target="#">
                     EcartBooks
                 </a>
                 <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">

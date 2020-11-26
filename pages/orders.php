@@ -66,8 +66,8 @@
                                       <th>Shipping Address</th>
                                       <th>Contact</th>
                                       <th>Email</th>
-                                      <th>Total price(Php)</th>
-                                      <th>Tax(Php)</th>
+                                      <th>Total price(INR )</th>
+                                      <th>Tax(INR )</th>
                                       <th>Status</th>
                                     </tr>
                                         <?php

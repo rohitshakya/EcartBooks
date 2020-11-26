@@ -112,8 +112,8 @@ $cart_table = mysqli_query($dbconn,"SELECT sum(total) FROM order_details WHERE u
            $city=$_POST['city'];
            $ship_add=$shipaddress .' '. $city;    
            echo '********* Your tracking number: '.$track_num.' | ';  
-           echo 'Total: Php'.$total.' | ';
-           echo 'Tax: Php'.$tax.' | '; 
+           echo 'Total: INR'.$total.' | ';
+           echo 'Tax: INR'.$tax.' | '; 
            echo 'Shipping Address: '.$ship_add.' *********';
 
 $query = "INSERT INTO order (user_id, track_num, firstname, middlename, lastname, email, contact, shipping_add, order_date, status, totalprice, tax) 

@@ -74,8 +74,8 @@
                   <th>Product</th>
                   <th>Description</th>
                   <th width="100">Quantity</th>
-                  <th width="100">Price(Php)</th>
-                  <th width="100">Total(Php)</th>
+                  <th width="100">Price(INR)</th>
+                  <th width="100">Total(INR)</th>
                   <th width="100">Option</th>
                 </tr>
               </thead>
@@ -120,7 +120,7 @@
                       $result5 = mysqli_query($dbconn,"SELECT sum(total) FROM order_details WHERE user_id='$user_id' and order_id=''");
                       while($row5 = mysqli_fetch_array($result5))
                         { 
-                        echo 'Php'.$row5['sum(total)'];
+                        echo 'INR '.$row5['sum(total)'];
                         echo '<input type="hidden" name="total" value="'.$row5['sum(total)'].'">';
                         }
                       ?></strong>
